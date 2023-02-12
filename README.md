@@ -7,7 +7,7 @@ In the folder of sample_data, we provided the full data set of experimental Chi 
 
 ## Sample code
 
-While we only provide a subset of the training data used in this study, the user parameters and all other settings in the sample code were exactly the same as when we ran the code to produce the results in the paper. Readers can follow the code to understand the details of our model construction and training procedure. 
+While we only provide a subset of the training data used in this study, the user parameters and all other settings in the sample code were exactly the same as when we ran the code to produce the results in the paper. Readers can follow the code to understand the details of our model construction and training procedure. There are descriptions on the parameters inside the sample code to help user try different settings, including training with only one or two tasks instead of all three tasks together, or to use linear or quadratic temperature dependence model for predicting Chi values.
 
 ## Key packages
 
