@@ -1,5 +1,5 @@
 # MTL_ChiParameter
-Sample code for "Predicting polymer-solvent miscibility using machine-learned Flory-Huggins interaction parameters
+Sample code for the paper titled "Predicting polymer-solvent miscibility using machine-learned Flory-Huggins interaction parameters"
 
 ## Sample data
 
