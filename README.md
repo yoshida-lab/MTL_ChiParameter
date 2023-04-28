@@ -1,6 +1,8 @@
 # MTL_ChiParameter
 Sample code for the paper titled "Predicting polymer-solvent miscibility using machine-learned Flory-Huggins interaction parameters"
 
+UPDATE on 2023.04.28: with the permission obtained from the simulation package, our calculation data has been updated to include actual calculated values.
+
 ## Sample data
 
 In the folder of sample_data, we provided the full data set of experimental Chi parameter values (data_Chi.csv) extracted from the supplementary table of Orwoll and Arnold, Physical Properties of Polymers Handbook, 2nd ed., Springer: New York, USA, 2007. We also included the manual classification labels for the polymers of each data point. The SMILES of polymers and solvents in the data column 'ps_pair' were joined by '_'. Due to data sharing restriction by the PoLyInfo database, we are not allowed to share those data openly in this repository. For the binary solubility labels, we provide an artificial set of data (data_PI.csv), where the content is simply a copy of data_Chi.csv with solubility defined as the Chi values being smaller than 0.5. For the computational Chi parameter data (data_COSMO.csv), we only included calculation data of the polymer-sovlent pairs that appeared in data_Chi.csv. The descriptors of each data set were also shared (desc_XX.csv).
