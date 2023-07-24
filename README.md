@@ -15,6 +15,8 @@ Although we only provide training data that is partially artificial, all user pa
 
 WARNING: The trained model using this sample code would not be directly comparable to the results in our paper because the PoLyInfo classification and calculated Chi data are missing.
 
+NOTE: We also provide a separated file of sample code for calculating the descriptors that are organized in the same format as the descriptor data stored in the sample_data folder.
+
 ## Key packages
 
 The sample code has been tested on the following environment using a workstation with NVIDIA A100 GPU. 
