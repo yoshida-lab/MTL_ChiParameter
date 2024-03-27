@@ -1,7 +1,9 @@
 # MTL_ChiParameter
-Sample code for the paper titled "Predicting polymer-solvent miscibility using machine-learned Flory-Huggins interaction parameters"
+Sample code for the paper titled "Predicting polymer-solvent miscibility using machine-learned Flory-Huggins interaction parameters" (https://pubs.acs.org/doi/10.1021/acs.macromol.2c02600). Please cite this paper if you have benefited from any data or codes provided in this study.
 
 UPDATE on 2023.04.28: with the permission obtained from the simulation package, our calculation data has been updated to include actual calculated values.
+
+UPDATE on 2024.03.27: We have made the COSMO-RS calculation data open through figshare (https://figshare.com/articles/dataset/Flory-Huggins_interaction_parameter_calculated_by_COSMO-RS_simulation/25448056).
 
 ## Sample data
 
